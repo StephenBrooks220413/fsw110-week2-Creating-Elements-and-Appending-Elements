@@ -1,0 +1,20 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenBrooks220413/fsw110-week2-Creating-Elements-and-Appending-Elements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenBrooks220413/fsw110-week2-Creating-Elements-and-Appending-Elements/issues"
+  },
+  "homepage": "https://github.com/StephenBrooks220413/fsw110-week2-Creating-Elements-and-Appending-Elements#readme"
+}
